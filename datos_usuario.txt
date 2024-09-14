@@ -1,1 +1,4 @@
 Usuario=vagrant
+model name	: AMD Ryzen 5 5600 6-Core Processor
+model name	: AMD Ryzen 5 5600 6-Core Processor
+model name	: AMD Ryzen 5 5600 6-Core Processor
